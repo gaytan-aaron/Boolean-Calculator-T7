@@ -1,6 +1,7 @@
-# Webpack Starter
+# Calculadora Booleana
 
-Este es el proyecto inicial para crear aploicaciones utilizando webpack.
+Proyecto inicial sobre una calculadora booleana.
+Realizado por el equipo 7 de la materia Estructuras Discretas de la Facultad de Ingeniería de la UNAM.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
@@ -13,4 +14,10 @@ Y para construir el build, recuerden:
 ```
 
 npm run build
+```
+
+Para iniciar el proyecto de manera local con node:
+```
+
+npm start
 ```
